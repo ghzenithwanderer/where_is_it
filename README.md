@@ -1,6 +1,6 @@
 # where_is_it
 
-COLO_FLAG {f0und_th3_p4n0r4m4}
+COLO_FLAG{f0und_th3_p4n0r4m4}
 
 ## Атрибуція фото
 Фото: rking / Mapillary, ліцензія CC BY-SA 4.0
